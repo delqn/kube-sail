@@ -52,7 +52,7 @@ spec:
 apiVersion: networking.k8s.io/v1beta1
 kind: Ingress
 metadata:
-  name: ingress
+  name: ks-mis-li-ingress
   namespace: delqn
 spec:
   rules:
